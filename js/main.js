@@ -30,9 +30,9 @@ jQuery(document).ready(function($){
 	}
 
 
-var C = 200;                    				//1||cure
+var C = 1000;                    				//1||cure
 var B = 200;                    				//blessed
-var cancerned = 550;                    		//cancerned 
+var cancerned = 700;                    		//cancerned 
 var CUAMS = 982;                    			//c u at my pace
 var cc = 350;                    				//cure cancer
 var cureageous = 0;                    			//cureageous
