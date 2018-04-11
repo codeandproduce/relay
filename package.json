@@ -3,5 +3,8 @@
     "start": "node server.js"
   },
   "name": "",
-  "version": ""
+  "version": "",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
