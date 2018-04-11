@@ -1,0 +1,266 @@
+@font-face {
+    font-family: 'open-sans';
+    src: url("OpenSans.ttf");
+}
+
+#head h1 {
+    font-size: 3em;
+    text-align: center;
+    padding-bottom: 90px;
+    font-weight: normal;
+    padding-top: 120px;
+    opacity: 1;
+    animation-duration: 1s;
+    top: 0;
+}
+
+h1::selection,
+h2::selection,
+h3::selection,
+h4::selection,
+h5::selection,
+h6::selection,
+p::selection,
+li::selection {
+    color: #c23000;
+}
+
+#contact {
+    height: 100vh;
+    text-align: center;
+    padding: 60px;
+}
+
+#contact h1 {
+    padding-top: 160px;
+    padding-bottom: 100px;
+    font-size: 3em;
+    text-align: center;
+}
+
+h4 {
+    padding: 20px;
+    font-size: 2em;
+}
+
+.hello li {
+    letter-spacing: 2px;
+    padding: 8px;
+    font-family: 'open-sans';
+    font-weight: bold;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: #0B081F;
+    height: 100%;
+    color: white;
+}
+
+
+.hello {
+    text-align: center;
+    max-width: 100%;
+}
+
+.pagewrapper {
+    min-height: 100%;
+    height: auto !important;
+    /* This line and the next line are not necessary unless you need IE6 support */
+    height: 100%;
+    margin: 0 auto -140px;
+    animation-name: example;
+    animation-duration: 3s;
+}
+
+#head {
+    height: 400px;
+    text-align: center;
+}
+
+#head p {
+    color: #DFDCE3;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+p {
+    font-family: 'open-sans', sans-serif;
+    line-height: 30px;
+    font-size: 1.1em;
+}
+
+#circle {}
+
+.schedule img {
+    max-width: 100%;
+    width: auto;
+}
+
+h3 {
+    padding: 100px;
+    padding-bottom: 60px !important;
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'open-sans', sans-serif;
+    letter-spacing: 5px;
+    font-weight: normal;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-family: 'open-sans', sans-serif;
+    letter-spacing: 5px;
+    font-weight: normal;
+    padding: 40px;
+    font-size: 1.4em;
+}
+
+@media (orientation:portrait) and (max-width:400px) {
+    #circle {
+        padding-top: 300px;
+    }
+    #head h1 {
+        padding-top: 160px;
+    }
+    #head p {
+        font-size: 0.9em;
+        padding-left: 60px;
+        padding-right: 60px;
+        padding-bottom: 60px;
+    }
+}
+
+@media (orientation:portrait) and (max-width:800px) {
+    #circle {
+        padding-top: 200px;
+    }
+    #head h1 {
+        padding-top: 160px;
+    }
+    #head p {
+        font-size: 1.0em;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-bottom: 70px;
+    }
+}
+
+.teamwrap {
+    text-align: center;
+}
+
+.teamwrap h5 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.teamwrap img {
+    max-width: 80%;
+    margin-bottom: 30px;
+}
+
+h5 {
+    padding: 100px;
+    font-size: 2em;
+}
+
+@keyframes example {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+h1 {
+    animation-name: example;
+    animation-duration: 3s;
+}
+
+#head p {
+    animation-name: example;
+    animation-duration: 3s;
+}
+
+.Team {
+    color: #FFFAED;
+    display: block;
+    font-size: 15px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.Laps {
+    color: #DFDCE3;
+    display: block;
+    font-size: 15px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.footer {
+    height: 140px;
+    background-color: #111;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.footer p {
+    font-size: 0.4em;
+    text-align: center !important;
+    font-family: 'sans-serif';
+    text-transform: uppercase;
+    color: white;
+    line-height: 140px;
+    letter-spacing: 2px;
+}
+
+.cd-main-content {
+    min-height: 100vh;
+}
+
+.back {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0B081F;
+    object-position: center;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: 1px solid #ebebeb;
+}
+
+table td,
+table th {
+    padding: 10px 50px;
+}
+
+table th {
+    font: normal 15px Helvetica Neue, Helvetica, sans-serif;
+    color: #ddd;
+}
+
+table th {
+    text-align: center;
+    border-bottom: 1px solid #fff;
+}
+
+table td {
+    font-size: 14px;
+    font-family: Helvetica
+}
