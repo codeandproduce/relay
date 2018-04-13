@@ -12,12 +12,12 @@ $(document).ready(function($){
 			id: "brosChilling"
 		},			
 		achillies: {
-			laps: 296,
+			laps: 298,
 			name: "Achilles Hea",
 			id: "achillies"
 		},				
 		anticancer: {
-			laps: 457,
+			laps: 487,
 			name: "Anti Cancer Social Club",
 			id: "antican202er"
 		},			
@@ -37,12 +37,12 @@ $(document).ready(function($){
 			id: "cancervive"
 		},						
 		cancerned: {
-			laps: 327,
+			laps: 333,
 			name: "Cancerned",
 			id: "cancerned"
 		},						
 		dusktilldawn: {
-			laps:268,
+			laps:450,
 			name: "Dusk Till Dawn",
 			id: "dusktilldawn"
 		},					
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "jump"
 		},							
 		leg: {
-			laps: 289,
+			laps: 291,
 			name: "Leg Day",
 			id: "leg"
 		},								
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "lost"
 		},							
 		needForSpeed: {
-			laps: 443,
+			laps: 445,
 			name: "Need for Speed",
 			id: "needForSpeed"
 		},					
@@ -97,12 +97,12 @@ $(document).ready(function($){
 			id: "prolet"
 		},							
 		RIC: {
-			laps: 144,
+			laps: 182,
 			name: "R.I.C. 24/7",
 			id: "RIC"
 		},								
 		soupa: {
-			laps: 126,
+			laps: 148,
 			name: "SoupaStars",
 			id: "soupa"
 		},							
@@ -127,7 +127,7 @@ $(document).ready(function($){
 			id: "tumornators"
 		},						
 		walkanda: {
-			laps: 217,
+			laps: 226,
 			name: "Walkanda",
 			id: "walkanda"
 		},						
@@ -142,7 +142,7 @@ $(document).ready(function($){
 			id: "walkingtill"
 		},						
 		worstpage: {
-			laps: 338,
+			laps: 349,
 			name: "Worst Pace Scenario",
 			id: "worstpage"
 		},
