@@ -2,162 +2,162 @@ $(document).ready(function($){
 
 	var teamObj = {
 		brackets: {
-			laps: 184,
+			laps: 354,
 			name: "[]",
 			id: "brackets"
 		},				
 		brosChilling: {
-			laps: 132,
+			laps: 293,
 			name: "12 Bros Chillin in a Hot Tub",
 			id: "brosChilling"
 		},			
 		achillies: {
-			laps: 139,
-			name: "Achilles Heals",
+			laps: 296,
+			name: "Achilles Hea",
 			id: "achillies"
 		},				
 		anticancer: {
-			laps: 210,
+			laps: 457,
 			name: "Anti Cancer Social Club",
-			id: "anticancer"
+			id: "antican202er"
 		},			
 		apac: {
-			laps: 156,
+			laps: 445,
 			name: "APAC Walking",
 			id: "apac"
 		},					
 		bigFeet: {
-			laps: 117,
+			laps: 313,
 			name: "Big Feet",
 			id: "bigFeet"
 		},				
 		cancervive: {
-			laps: 93,
+			laps: 224,
 			name: "Cancervive",
 			id: "cancervive"
 		},						
 		cancerned: {
-			laps: 163,
+			laps: 327,
 			name: "Cancerned",
 			id: "cancerned"
 		},						
 		dusktilldawn: {
-			laps: 165,
+			laps:268,
 			name: "Dusk Till Dawn",
 			id: "dusktilldawn"
 		},					
 		fid: {
-			laps: 28,
+			laps: 186,
 			name: "F7DELITY",
 			id: "fid"
 		},							
 		freindslife: {
-			laps: 88,
+			laps: 252,
 			name: "Friends4Life",
 			id: "freindslife"
 		},							
 		happyfeet: {
-			laps: 127,
+			laps: 248,
 			name: "Happy Feet",
 			id: "happyfeet"
-		},						
+		},				 		
 		hercure: {
-			laps: 279,
+			laps: 508,
 			name: "Hercureles",
 			id: "hercure"
 		},							
 		jump: {
-			laps: 63,
+			laps: 140,
 			name: "Jump Start",
 			id: "jump"
 		},							
 		leg: {
-			laps: 55,
+			laps: 289,
 			name: "Leg Day",
 			id: "leg"
 		},								
 		lost: {
-			laps: 76,
+			laps: 117,
 			name: "Lost in Pace",
 			id: "lost"
 		},							
 		needForSpeed: {
-			laps: 154,
+			laps: 443,
 			name: "Need for Speed",
 			id: "needForSpeed"
 		},					
 		paws: {
-			laps: 72,
+			laps: 148,
 			name: "PAWS Cancer",
 			id: "paws"
 		},							
 		prolet: {
-			laps: 143,
+			laps: 199,
 			name: "Proletariat",
 			id: "prolet"
 		},							
 		RIC: {
-			laps: 47,
+			laps: 144,
 			name: "R.I.C. 24/7",
 			id: "RIC"
 		},								
 		soupa: {
-			laps: 64,
+			laps: 126,
 			name: "SoupaStars",
 			id: "soupa"
 		},							
 		spero: {
-			laps: 60,
+			laps: 117,
 			name: "Spero",
 			id: "spero"
 		},						
 		leggs: {
-			laps: 101,
+			laps: 206,
 			name: "Scrambled Leggs",
 			id: "leggs"
 		},							
 		curesadors: {
-			laps: 175,
+			laps: 330,
 			name: "The Curesadors",
 			id: "curesadors"
 		},						
 		tumornators: {
-			laps: 195,
+			laps: 424,
 			name: "Tumornators",
 			id: "tumornators"
 		},						
 		walkanda: {
-			laps: 122,
+			laps: 217,
 			name: "Walkanda",
 			id: "walkanda"
 		},						
 		walking: {
-			laps: 95,
+			laps: 220,
 			name: "Walking Cows",
 			id: "walking"
 		},							
 		walkingtill: {
-			laps: 128,
+			laps: 302,
 			name: "Walking Till Dawn",
 			id: "walkingtill"
 		},						
 		worstpage: {
-			laps: 128,
+			laps: 338,
 			name: "Worst Pace Scenario",
 			id: "worstpage"
 		},
 		middleschool: {
-			laps:193,
+			laps: 193,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 1781,
+			laps: 1799,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps:211,
+			laps: 211,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
