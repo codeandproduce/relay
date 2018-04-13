@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "brosChilling"
 		},			
 		achillies: {
-			laps: 42,
+			laps: 50,
 			name: "Achilles Heals",
 			id: "achillies"
 		},				
@@ -47,7 +47,7 @@ $(document).ready(function($){
 			id: "dusktilldawn"
 		},					
 		fid: {
-			laps: 11,
+			laps: 14,
 			name: "F7DELITY",
 			id: "fid"
 		},							
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "jump"
 		},							
 		leg: {
-			laps: 49,
+			laps: 55,
 			name: "Leg Day",
 			id: "leg"
 		},								
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "RIC"
 		},								
 		soupa: {
-			laps: 55,
+			laps: 64,
 			name: "SoupaStars",
 			id: "soupa"
 		},							
@@ -157,7 +157,7 @@ $(document).ready(function($){
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps:173,
+			laps:211,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
