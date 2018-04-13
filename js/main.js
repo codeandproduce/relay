@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		brackets: {
-			laps: 93,
+			laps: 123,
 			name: "[]",
 			id: "brackets"
 		},				
 		brosChilling: {
-			laps: 93,
+			laps: 108,
 			name: "12 Bros Chillin in a Hot Tub",
 			id: "brosChilling"
 		},			
@@ -22,7 +22,7 @@ $(document).ready(function($){
 			id: "anticancer"
 		},			
 		apac: {
-			laps: 35,
+			laps: 44,
 			name: "APAC Walking",
 			id: "apac"
 		},					
@@ -37,12 +37,12 @@ $(document).ready(function($){
 			id: "cancervive"
 		},						
 		cancerned: {
-			laps: 84,
+			laps: 154,
 			name: "Cancerned",
 			id: "cancerned"
 		},						
 		dusktilldawn: {
-			laps: 51,
+			laps: 92,
 			name: "Dusk Till Dawn",
 			id: "dusktilldawn"
 		},					
@@ -57,12 +57,12 @@ $(document).ready(function($){
 			id: "freindslife"
 		},							
 		happyfeet: {
-			laps: 49,
+			laps: 69,
 			name: "Happy Feet",
 			id: "happyfeet"
 		},						
 		hercure: {
-			laps: 141,
+			laps: 207,
 			name: "Hercureles",
 			id: "hercure"
 		},							
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "lost"
 		},							
 		needForSpeed: {
-			laps: 33,
+			laps: 46,
 			name: "Need for Speed",
 			id: "needForSpeed"
 		},					
@@ -92,7 +92,7 @@ $(document).ready(function($){
 			id: "paws"
 		},							
 		prolet: {
-			laps: 54,
+			laps: 114,
 			name: "Proletariat",
 			id: "prolet"
 		},							
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "RIC"
 		},								
 		soupa: {
-			laps: 32,
+			laps: 55,
 			name: "SoupaStars",
 			id: "soupa"
 		},							
@@ -112,17 +112,17 @@ $(document).ready(function($){
 			id: "spero"
 		},						
 		leggs: {
-			laps: 29,
+			laps: 58,
 			name: "Scrambled Leggs",
 			id: "leggs"
 		},							
 		curesadors: {
-			laps: 71,
+			laps: 89,
 			name: "The Curesadors",
 			id: "curesadors"
 		},						
 		tumornators: {
-			laps: 63,
+			laps: 75,
 			name: "Tumornators",
 			id: "tumornators"
 		},						
@@ -132,7 +132,7 @@ $(document).ready(function($){
 			id: "walkanda"
 		},						
 		walking: {
-			laps: 16,
+			laps: 90,
 			name: "Walking Cows",
 			id: "walking"
 		},							
@@ -142,22 +142,22 @@ $(document).ready(function($){
 			id: "walkingtill"
 		},						
 		worstpage: {
-			laps: 78,
+			laps: 109,
 			name: "Worst Pace Scenario",
 			id: "worstpage"
 		},
 		middleschool: {
-			laps:180,
+			laps:193,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 1696,
+			laps: 1762,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps:157,
+			laps:173,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
