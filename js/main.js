@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "brosChilling"
 		},			
 		achillies: {
-			laps: 50,
+			laps: 114,
 			name: "Achilles Heals",
 			id: "achillies"
 		},				
@@ -27,7 +27,7 @@ $(document).ready(function($){
 			id: "apac"
 		},					
 		bigFeet: {
-			laps: 29,
+			laps: 55,
 			name: "Big Feet",
 			id: "bigFeet"
 		},				
@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "cancerned"
 		},						
 		dusktilldawn: {
-			laps: 92,
+			laps: 129,
 			name: "Dusk Till Dawn",
 			id: "dusktilldawn"
 		},					
@@ -52,7 +52,7 @@ $(document).ready(function($){
 			id: "fid"
 		},							
 		freindslife: {
-			laps: 53,
+			laps: 64,
 			name: "Friends4Life",
 			id: "freindslife"
 		},							
@@ -87,7 +87,7 @@ $(document).ready(function($){
 			id: "needForSpeed"
 		},					
 		paws: {
-			laps: 44,
+			laps: 68,
 			name: "PAWS Cancer",
 			id: "paws"
 		},							
@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "soupa"
 		},							
 		spero: {
-			laps: 34,
+			laps: 42,
 			name: "Spero",
 			id: "spero"
 		},						
@@ -122,7 +122,7 @@ $(document).ready(function($){
 			id: "curesadors"
 		},						
 		tumornators: {
-			laps: 75,
+			laps: 86,
 			name: "Tumornators",
 			id: "tumornators"
 		},						
@@ -137,12 +137,12 @@ $(document).ready(function($){
 			id: "walking"
 		},							
 		walkingtill: {
-			laps: 48,
+			laps: 68,
 			name: "Walking Till Dawn",
 			id: "walkingtill"
 		},						
 		worstpage: {
-			laps: 109,
+			laps: 119,
 			name: "Worst Pace Scenario",
 			id: "worstpage"
 		},
@@ -152,7 +152,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 1762,
+			laps: 1781,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
