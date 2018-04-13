@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		brackets: {
-			laps: 0,
+			laps: 63,
 			name: "[]",
 			id: "brackets"
 		},				
 		brosChilling: {
-			laps: 0,
+			laps: 68,
 			name: "12 Bros Chillin in a Hot Tub",
 			id: "brosChilling"
 		},			
@@ -17,17 +17,17 @@ $(document).ready(function($){
 			id: "achillies"
 		},				
 		anticancer: {
-			laps: 0,
+			laps: 77,
 			name: "Anti Cancer Social Club",
 			id: "anticancer"
 		},			
 		apac: {
-			laps: 0,
+			laps: 27,
 			name: "APAC Walking",
 			id: "apac"
 		},					
 		bigFeet: {
-			laps: 0,
+			laps: 19,
 			name: "Big Feet",
 			id: "bigFeet"
 		},				
