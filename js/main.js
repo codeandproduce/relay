@@ -145,11 +145,16 @@ $(document).ready(function($){
 			laps: 78,
 			name: "Worst Pace Scenario",
 			id: "worstpage"
-		}
+		},
 		middleschool: {
 			laps:180,
 			name: "Middle School",
 			id: "middleschool"
+		},
+		elementaryschool: {
+			laps: 1696,
+			name: "Elementary School",
+			id: "elementaryschool"
 		}
 		teacher: {
 			laps:157,
