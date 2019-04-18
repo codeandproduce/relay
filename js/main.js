@@ -2,17 +2,17 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 1,
+			laps: 0,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 50,
+			laps: 0,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 3,
+			laps: 0,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
@@ -22,7 +22,7 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 4,
+			laps: 0,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -143,17 +143,17 @@ $(document).ready(function($){
 		},						
 		
 		middleschool: {
-			laps: 193,
+			laps: 0,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 1799,
+			laps: 0,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps: 211,
+			laps: 0,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
