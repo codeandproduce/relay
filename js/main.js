@@ -1,151 +1,147 @@
 $(document).ready(function($){
 
 	var teamObj = {
-		brackets: {
-			laps: 354,
-			name: "[]",
-			id: "brackets"
+		beyondRunning: {
+			laps: 100,
+			name: "Beyond Running",
+			id: "beyondRunning"
 		},				
-		brosChilling: {
-			laps: 293,
-			name: "12 Bros Chillin in a Hot Tub",
-			id: "brosChilling"
+		walkieTalkie: {
+			laps: 200,
+			name: "Walkie Talkies",
+			id: "walkieTalkie"
 		},			
-		achillies: {
-			laps: 298,
-			name: "Achilles Hea",
-			id: "achillies"
+		walkamolies: {
+			laps: 300,
+			name: "Walkamolies",
+			id: "walkamolies"
 		},				
-		anticancer: {
-			laps: 487,
-			name: "Anti Cancer Social Club",
-			id: "antican202er"
+		aggressivelyMediocre: {
+			laps: 0,
+			name: "Aggressively Mediocre",
+			id: "aggressivelyMediocre"
 		},			
-		apac: {
-			laps: 445,
-			name: "APAC Walking",
-			id: "apac"
+		motzko: {
+			laps: 4,
+			name: "Mr. Motzko's Walk and Talk Exploratory",
+			id: "motzko"
 		},					
-		bigFeet: {
-			laps: 313,
-			name: "Big Feet",
-			id: "bigFeet"
+		phast: {
+			laps: 0,
+			name: "Phast Walkers",
+			id: "phast"
 		},				
-		cancervive: {
-			laps: 224,
-			name: "Cancervive",
-			id: "cancervive"
+		knighters: {
+			laps: 0,
+			name: "The All Knighters",
+			id: "knighters"
 		},						
-		cancerned: {
-			laps: 333,
-			name: "Cancerned",
-			id: "cancerned"
+		pirates: {
+			laps: 0,
+			name: "PIrates of the Cure-i-bbean",
+			id: "pirates"
 		},						
-		dusktilldawn: {
-			laps:450,
-			name: "Dusk Till Dawn",
-			id: "dusktilldawn"
+		cureBears: {
+			laps:0,
+			name: "The Cure Bears",
+			id: "cureBears"
 		},					
-		fid: {
-			laps: 186,
-			name: "F7DELITY",
-			id: "fid"
+		ko: {
+			laps: 0,
+			name: "K.O.",
+			id: "ko"
 		},							
-		freindslife: {
-			laps: 252,
-			name: "Friends4Life",
-			id: "freindslife"
+		soleMates: {
+			laps: 0,
+			name: "Sole Mates",
+			id: "soleMates"
 		},							
-		happyfeet: {
-			laps: 248,
-			name: "Happy Feet",
-			id: "happyfeet"
+		unforgettables: {
+			laps: 0,
+			name: "The Unforgettables",
+			id: "unforgettables"
 		},				 		
-		hercure: {
-			laps: 508,
-			name: "Hercureles",
-			id: "hercure"
+		soleSquad: {
+			laps: 0,
+			name: "Sole Squad",
+			id: "soleSquad"
 		},							
-		jump: {
-			laps: 140,
-			name: "Jump Start",
-			id: "jump"
+		nongCun: {
+			laps: 0,
+			name: "Nong Cun",
+			id: "nongCun"
 		},							
-		leg: {
-			laps: 291,
-			name: "Leg Day",
-			id: "leg"
+		benDing: {
+			laps: 0,
+			name: "Ben Ding Dong",
+			id: "benDing"
 		},								
-		lost: {
-			laps: 117,
-			name: "Lost in Pace",
-			id: "lost"
+		cashMoney: {
+			laps: 0,
+			name: "Cash Money On the Run",
+			id: "cashMoney"
 		},							
-		needForSpeed: {
-			laps: 445,
-			name: "Need for Speed",
-			id: "needForSpeed"
+		farmers: {
+			laps: 0,
+			name: "Farmers",
+			id: "farmers"
 		},					
-		paws: {
-			laps: 148,
-			name: "PAWS Cancer",
-			id: "paws"
+		legsMiser: {
+			laps: 0,
+			name: "Legs Miserables",
+			id: "legsMiser"
 		},							
-		prolet: {
-			laps: 199,
-			name: "Proletariat",
-			id: "prolet"
+		cureious: {
+			laps: 0,
+			name: "Fast and Cure-ious",
+			id: "cureious"
 		},							
-		RIC: {
-			laps: 182,
-			name: "R.I.C. 24/7",
-			id: "RIC"
+		sos: {
+			laps: 0,
+			name: " … - - - … (SOS)",
+			id: "sos"
 		},								
-		soupa: {
-			laps: 148,
-			name: "SoupaStars",
-			id: "soupa"
+		bigWok: {
+			laps: 0,
+			name: "Big Wok",
+			id: "bigWok"
 		},							
-		spero: {
-			laps: 117,
-			name: "Spero",
-			id: "spero"
+		walkman: {
+			laps: 0,
+			name: "Walkman",
+			id: "walkman"
 		},						
-		leggs: {
-			laps: 206,
-			name: "Scrambled Leggs",
-			id: "leggs"
+		ooklah: {
+			laps: 0,
+			name: "Ooklah Mooklah Hooklah",
+			id: "ooklah"
 		},							
-		curesadors: {
-			laps: 330,
-			name: "The Curesadors",
-			id: "curesadors"
+		lifeSupport: {
+			laps: 0,
+			name: "Life Support",
+			id: "lifeSupport"
 		},						
-		tumornators: {
-			laps: 424,
-			name: "Tumornators",
-			id: "tumornators"
+		schoolWalk: {
+			laps: 0,
+			name: "School of Walk",
+			id: "schoolWalk"
 		},						
-		walkanda: {
-			laps: 226,
-			name: "Walkanda",
-			id: "walkanda"
+		findingChemo: {
+			laps: 0,
+			name: "Finding Chemo",
+			id: "findingChemo"
 		},						
-		walking: {
-			laps: 220,
-			name: "Walking Cows",
-			id: "walking"
+		cancerbgon: {
+			laps: 0,
+			name: "Cancerbgon",
+			id: "cancerbgon"
 		},							
-		walkingtill: {
-			laps: 302,
-			name: "Walking Till Dawn",
-			id: "walkingtill"
+		barn: {
+			laps: 0,
+			name: "Barn",
+			id: "barn"
 		},						
-		worstpage: {
-			laps: 349,
-			name: "Worst Pace Scenario",
-			id: "worstpage"
-		},
+		
 		middleschool: {
 			laps: 193,
 			name: "Middle School",
