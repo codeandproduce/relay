@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 100,
+			laps: 0,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 50,
+			laps: 0,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
