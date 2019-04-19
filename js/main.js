@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 380,
+			laps: 382,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -27,7 +27,7 @@ $(document).ready(function($){
 			id: "motzko"
 		},					
 		phast: {
-			laps: 164,
+			laps: 173,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 180,
+			laps: 188,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 225,
+			laps: 235,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
