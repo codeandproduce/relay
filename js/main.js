@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 334,
+			laps: 337,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 222,
+			laps: 225,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
