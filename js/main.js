@@ -32,7 +32,7 @@ $(document).ready(function($){
 			id: "phast"
 		},				
 		knighters: {
-			laps: 36,
+			laps: 58,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
