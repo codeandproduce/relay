@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 21+8+6+7+24+11,
+			laps: 21+8+6+7+24+11+17,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -42,12 +42,12 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 31+12+9+9+8+9+5,
+			laps: 31+12+9+9+8+9+20,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 41,
+			laps: 48,
 			name: "K.O.",
 			id: "ko"
 		},							
@@ -67,7 +67,7 @@ $(document).ready(function($){
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 16+12,
+			laps: 16+12+4,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -137,7 +137,7 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 17+14+7+16+35+11+44+2+2+2+2+3,
+			laps: 17+14+7+16+35+11+44+2+2+2+2+3+5,
 			name: "Barn",
 			id: "barn"
 		},						
@@ -148,12 +148,12 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3+76+92+138+16+41+57,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps: 25+6+15,
+			laps: 25+6+35,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
