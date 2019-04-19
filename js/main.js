@@ -22,7 +22,7 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 24+5+8,
+			laps: 37,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -32,17 +32,17 @@ $(document).ready(function($){
 			id: "phast"
 		},				
 		knighters: {
-			laps: 14+8+14,
+			laps: 36,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 9+12+26,
+			laps: 47,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 31+12+9+9+8+9+20,
+			laps: 99,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -52,32 +52,32 @@ $(document).ready(function($){
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 13+10+5,
+			laps: 28,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 6+7+6+6,
+			laps: 28,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 15+12+19+8,
+			laps: 54,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 16+12+4,
+			laps: 32,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 16+7+9+6+22+27+,
+			laps: 87,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 34+6+4+6+2,
+			laps: 55,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -87,7 +87,7 @@ $(document).ready(function($){
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 4+2+1,
+			laps: 7,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
@@ -143,12 +143,12 @@ $(document).ready(function($){
 		},						
 		
 		middleschool: {
-			laps: 15+7+8+18+13+4+11+7+5+8+14+14,
+			laps: 15+7+8+18+13+4+11+7+5+8+14+16,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3+76+92+138+16+41+57+20+11+10+1,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3+76+92+138+16+41+57+20+11+10+15,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
