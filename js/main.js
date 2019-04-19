@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 0,
+			laps: 50,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 0,
+			laps: 21,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 0,
+			laps: 11,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -32,7 +32,7 @@ $(document).ready(function($){
 			id: "phast"
 		},				
 		knighters: {
-			laps: 0,
+			laps: 14,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 18,
+			laps: 27,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 0,
+			laps: 16,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 3,
+			laps: 11,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -97,7 +97,7 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 0,
+			laps: 7,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 4,
+			laps: 35,
 			name: "Walkman",
 			id: "walkman"
 		},						
@@ -117,12 +117,12 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 0,
+			laps: 10,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 0,
+			laps: 13,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
@@ -132,12 +132,12 @@ $(document).ready(function($){
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 0,
+			laps: 17,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 9,
+			laps: 17,
 			name: "Barn",
 			id: "barn"
 		},						
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 170,
+			laps: 276,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
