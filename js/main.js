@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 104,
+			laps: 107,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 81,
+			laps: 82,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
