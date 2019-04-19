@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 398,
+			laps: 402,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
