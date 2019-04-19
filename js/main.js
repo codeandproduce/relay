@@ -52,7 +52,7 @@ $(document).ready(function($){
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 36,
+			laps: 53,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 2854,
+			laps: 2858,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
