@@ -52,7 +52,7 @@ $(document).ready(function($){
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 53,
+			laps: 73,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
