@@ -57,7 +57,7 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 28,
+			laps: 38,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -87,7 +87,7 @@ $(document).ready(function($){
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 7,
+			laps: 22,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 2813,
+			laps: 2815,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
