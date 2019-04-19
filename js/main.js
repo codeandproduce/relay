@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 15,
+			laps: 21,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -132,12 +132,12 @@ $(document).ready(function($){
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 40,
+			laps: 41,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 190,
+			laps: 196,
 			name: "Barn",
 			id: "barn"
 		},						
