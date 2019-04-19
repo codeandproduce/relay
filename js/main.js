@@ -32,7 +32,7 @@ $(document).ready(function($){
 			id: "phast"
 		},				
 		knighters: {
-			laps: 79,
+			laps: 88,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 138,
+			laps: 143,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
