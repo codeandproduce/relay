@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 55,
+			laps: 151,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 2811,
+			laps: 2813,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
