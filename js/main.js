@@ -132,7 +132,7 @@ $(document).ready(function($){
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 150,
+			laps: 152,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
