@@ -127,7 +127,7 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 79,
+			laps: 87,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
