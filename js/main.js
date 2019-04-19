@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 52+29+19+27+3,
+			laps: 52+29+19+27+7,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 11+11+6+16+12+16+18+4,
+			laps: 11+11+6+16+12+16+18+8,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -67,12 +67,12 @@ $(document).ready(function($){
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 16+10,
+			laps: 16+12,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 16+7+9+6,
+			laps: 16+7+9+6+22,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -92,7 +92,7 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 17+9+6+4+8,
+			laps: 17+9+6+4+10,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 10+12+9,
+			laps: 10+12+9+6,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
