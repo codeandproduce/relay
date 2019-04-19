@@ -2,27 +2,27 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 788,
+			laps: 825,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 413,
+			laps: 413+5,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 110,
+			laps: 115,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 461,
+			laps: 466,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 377,
+			laps: 388,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -37,27 +37,27 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 307,
+			laps: 323,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 279,
+			laps: 279+8,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 416,
+			laps: 422,
 			name: "K.O.",
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 153,
+			laps: 166,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 314,
+			laps: 325,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -77,12 +77,12 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 362,
+			laps: 364+16,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 279,
+			laps: 292,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -92,27 +92,27 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 379,
+			laps: 417,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
 		sos: {
-			laps: 343,
+			laps: 348+4,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 320,
+			laps: 335,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 408,
+			laps: 427,
 			name: "Walkman",
 			id: "walkman"
 		},						
 		ooklah: {
-			laps: 69,
+			laps: 69+6,
 			name: "Ooklah Mooklah Hooklah",
 			id: "ooklah"
 		},							
@@ -122,7 +122,7 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 221,
+			laps: 241,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
