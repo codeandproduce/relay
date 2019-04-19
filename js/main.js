@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 684,
+			laps: 697,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -52,7 +52,7 @@ $(document).ready(function($){
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 119,
+			laps: 124,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
@@ -67,7 +67,7 @@ $(document).ready(function($){
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 139,
+			laps: 141,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -137,7 +137,7 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 331,
+			laps: 337,
 			name: "Barn",
 			id: "barn"
 		},						
