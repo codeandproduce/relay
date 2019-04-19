@@ -67,7 +67,7 @@ $(document).ready(function($){
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 120,
+			laps: 139,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 329,
+			laps: 339,
 			name: "Walkman",
 			id: "walkman"
 		},						
