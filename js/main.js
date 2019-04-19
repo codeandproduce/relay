@@ -47,7 +47,7 @@ $(document).ready(function($){
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 311,
+			laps: 324,
 			name: "K.O.",
 			id: "ko"
 		},							
@@ -57,12 +57,12 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 275,
+			laps: 280,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 253,
+			laps: 259,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
