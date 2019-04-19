@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 38,
+			laps: 42,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
