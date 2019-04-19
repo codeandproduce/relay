@@ -97,7 +97,7 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 42,
+			laps: 61,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
