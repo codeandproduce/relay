@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 52+29+19+27,
+			laps: 52+29+19+27+3,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 11+11+6+16+12+16+18,
+			laps: 11+11+6+16+12+16+18+4,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 9+12,
+			laps: 9+12+21,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -62,12 +62,12 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 15+12+19,
+			laps: 15+12+19+8,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 16+8,
+			laps: 16+10,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -92,12 +92,12 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 17+9+6+4,
+			laps: 17+9+6+4+8,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
 		sos: {
-			laps: 13+3,
+			laps: 13+6,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
@@ -137,7 +137,7 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 17+14+7+16+35+7,
+			laps: 17+14+7+16+35+11+44+2,
 			name: "Barn",
 			id: "barn"
 		},						
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
