@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 52+29+19+27+7+1,
+			laps: 52+29+19+27+7+1+12+6+2,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 21+8+6,
+			laps: 21+8+6+7,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -32,7 +32,7 @@ $(document).ready(function($){
 			id: "phast"
 		},				
 		knighters: {
-			laps: 14+8,
+			laps: 14+8+7,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 16+7+9+6+22,
+			laps: 16+7+9+6+22+17,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -153,7 +153,7 @@ $(document).ready(function($){
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps: 25+6,
+			laps: 25+6+5,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
