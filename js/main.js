@@ -122,7 +122,7 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 150,
+			laps: 165,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
@@ -132,7 +132,7 @@ $(document).ready(function($){
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 143,
+			laps: 147,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
