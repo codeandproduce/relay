@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 739,
+			laps: 739+5,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 412,
+			laps: 417,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -27,7 +27,7 @@ $(document).ready(function($){
 			id: "motzko"
 		},					
 		phast: {
-			laps: 177,
+			laps: 177+9,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 188,
+			laps: 188+9,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -67,7 +67,7 @@ $(document).ready(function($){
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 141,
+			laps: 146,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -122,7 +122,7 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 207,
+			laps: 209,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
