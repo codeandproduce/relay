@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 72,
+			laps: 75,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 95,
+			laps: 97,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
