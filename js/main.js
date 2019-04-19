@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 21+8,
+			laps: 21+8+6,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 31+12+9+9,
+			laps: 31+12+9+9+8,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -87,7 +87,7 @@ $(document).ready(function($){
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 4+2,
+			laps: 4+2+1,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
@@ -153,7 +153,7 @@ $(document).ready(function($){
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps: 25,
+			laps: 25+6,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
