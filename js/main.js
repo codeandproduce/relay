@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 52+29+7,
+			laps: 52+29+19+27,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -17,17 +17,17 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 11+11+6+16+12,
+			laps: 11+11+6+16+12+16+18,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 24,
+			laps: 24+5,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
 		phast: {
-			laps: 0,
+			laps: 4,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 9+2,
+			laps: 9+12,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -57,17 +57,17 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 6+7+6+2,
+			laps: 6+7+6+6,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 15,
+			laps: 15+12+19,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 16+5,
+			laps: 16+8,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -92,7 +92,7 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 17+9,
+			laps: 17+9+6+4,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 10+12,
+			laps: 10+12+9,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
@@ -127,7 +127,7 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 10+8+12+4,
+			laps: 10+8+12+7,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
@@ -137,18 +137,18 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 17+14+7+16+35,
+			laps: 17+14+7+16+35+7,
 			name: "Barn",
 			id: "barn"
 		},						
 		
 		middleschool: {
-			laps: 15+7+8+18+6,
+			laps: 15+7+8+18+13+4,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+5,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
