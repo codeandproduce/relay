@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 50,
+			laps: 52,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -37,12 +37,12 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 7,
+			laps: 9,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 27,
+			laps: 31,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 32,
+			laps: 34,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 276,
+			laps: 294+255,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
