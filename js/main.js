@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 469,
+			laps: 488,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -12,17 +12,17 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 50,
+			laps: 54,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 200,
+			laps: 210,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 175,
+			laps: 178,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -47,7 +47,7 @@ $(document).ready(function($){
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 128,
+			laps: 136,
 			name: "K.O.",
 			id: "ko"
 		},							
@@ -57,12 +57,12 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 126,
+			laps: 131,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 113,
+			laps: 118,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -77,12 +77,12 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 280,
+			laps: 282,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 116,
+			laps: 138,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -92,7 +92,7 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 198,
+			laps: 200,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 108,
+			laps: 114,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
@@ -127,17 +127,17 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 96,
+			laps: 99,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 41,
+			laps: 42,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 224,
+			laps: 229,
 			name: "Barn",
 			id: "barn"
 		},						
