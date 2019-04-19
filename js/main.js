@@ -22,7 +22,7 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 106,
+			laps: 113,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 52,
+			laps: 66,
 			name: "Walkman",
 			id: "walkman"
 		},						
@@ -143,7 +143,7 @@ $(document).ready(function($){
 		},						
 		
 		middleschool: {
-			laps: 157,
+			laps: 162,
 			name: "Middle School",
 			id: "middleschool"
 		},
