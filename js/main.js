@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 131,
+			laps: 143,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
