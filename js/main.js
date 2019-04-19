@@ -92,7 +92,7 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 160,
+			laps: 182,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 56,
+			laps: 76,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 2877,
+			laps: 2889,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
