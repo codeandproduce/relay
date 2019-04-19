@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 223,
+			laps: 226,
 			name: "Farmers",
 			id: "farmers"
 		},					
