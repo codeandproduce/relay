@@ -92,68 +92,68 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 17+9+6+4+10+10,
+			laps: 56,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
 		sos: {
-			laps: 13+6,
+			laps: 19,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 4+4+2+5+6+2,
+			laps: 27,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 35+7,
+			laps: 42,
 			name: "Walkman",
 			id: "walkman"
 		},						
 		ooklah: {
-			laps: 7+6,
+			laps: 13,
 			name: "Ooklah Mooklah Hooklah",
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 10+12+9+6,
+			laps: 37,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 13+11+5+10,
+			laps: 39,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 10+8+12+14+17,
+			laps: 61,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 17+7+5+7,
+			laps: 36,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 17+14+7+16+35+11+44+2+2+2+2+3+5+27,
+			laps: 185,
 			name: "Barn",
 			id: "barn"
 		},						
 		
 		middleschool: {
-			laps: 15+7+8+18+13+4+11+7+5+8+14+16,
+			laps: 128,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3+76+92+138+16+41+57+20+11+10+15,
+			laps: 2811,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps: 25+6+35+24,
+			laps: 90,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
