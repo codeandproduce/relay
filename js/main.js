@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 340,
+			laps: 342,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 143,
+			laps: 154,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 107,
+			laps: 108,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 70,
+			laps: 71,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
