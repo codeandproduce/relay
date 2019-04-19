@@ -92,7 +92,7 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 156,
+			laps: 160,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
