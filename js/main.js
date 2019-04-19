@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 169,
+			laps: 178,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -132,7 +132,7 @@ $(document).ready(function($){
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 147,
+			laps: 150,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
