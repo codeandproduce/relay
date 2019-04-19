@@ -27,7 +27,7 @@ $(document).ready(function($){
 			id: "motzko"
 		},					
 		phast: {
-			laps: 173,
+			laps: 177,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
@@ -127,7 +127,7 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 287,
+			laps: 292,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
