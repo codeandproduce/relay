@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 129,
+			laps: 141,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 99,
+			laps: 117,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
