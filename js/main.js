@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 739+5,
+			laps: 750,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 188+9,
+			laps: 188+9+8,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 150,
+			laps: 158,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 238,
+			laps: 238+23,
 			name: "Farmers",
 			id: "farmers"
 		},					
