@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 60,
+			laps: 70,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
