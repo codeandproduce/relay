@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 66+17,
+			laps: 83,
 			name: "Walkman",
 			id: "walkman"
 		},						
