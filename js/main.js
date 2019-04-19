@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 52+29+19+27+7+1+12+6+2+26,
+			laps: 181,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 21+8+6+7+24+11+17+2,
+			laps: 96,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 11+11+6+16+12+16+18+8+13+1+6,
+			laps: 118,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 16+7+9+6+22+27,
+			laps: 16+7+9+6+22+27+,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -132,7 +132,7 @@ $(document).ready(function($){
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 17+7+5,
+			laps: 17+7+5+7,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3+76+92+138+16+41+57+20+11+10,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3+76+92+138+16+41+57+20+11+10+1,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
