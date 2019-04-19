@@ -47,7 +47,7 @@ $(document).ready(function($){
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 338,
+			laps: 349,
 			name: "K.O.",
 			id: "ko"
 		},							
