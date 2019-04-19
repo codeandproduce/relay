@@ -87,7 +87,7 @@ $(document).ready(function($){
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 203,
+			laps: 220,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
