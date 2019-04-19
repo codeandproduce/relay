@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 48,
+			laps: 50,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 154,
+			laps: 160,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -57,7 +57,7 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 119,
+			laps: 126,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 274,
+			laps: 280,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
