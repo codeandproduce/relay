@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 532,
+			laps: 541,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -12,12 +12,12 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 64,
+			laps: 68,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 249,
+			laps: 258,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 133,
+			laps: 138,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 2895,
+			laps: 2897,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
