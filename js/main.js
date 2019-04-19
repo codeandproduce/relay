@@ -67,7 +67,7 @@ $(document).ready(function($){
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 32,
+			laps: 39,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 30,
+			laps: 34,
 			name: "Farmers",
 			id: "farmers"
 		},					
