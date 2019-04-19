@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 376,
+			laps: 392,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 402,
+			laps: 408,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -97,7 +97,7 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 277,
+			laps: 286,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 351,
+			laps: 358,
 			name: "Walkman",
 			id: "walkman"
 		},						
