@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 11+11+6+16+6,
+			laps: 11+11+6+16+12,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 31+12+5,
+			laps: 31+12+9,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -57,7 +57,7 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 6+7+6,
+			laps: 6+7+6+2,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 16+7+9,
+			laps: 16+7+9+6,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -92,7 +92,7 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 17,
+			laps: 17+9,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 4+4+2+5+6,
+			laps: 4+4+2+5+6+2,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
@@ -117,22 +117,22 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 10,
+			laps: 10+12,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 13+11+5,
+			laps: 13+11+5+6,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 10+8+12,
+			laps: 10+8+12+4,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 17+7,
+			laps: 17+7+5,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48,
+			laps: 294+255+184+48+34+32+89+48+17+16+59,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
