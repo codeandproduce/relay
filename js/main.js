@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 0,
+			laps: 7,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -52,7 +52,7 @@ $(document).ready(function($){
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 6,
+			laps: 13,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 14,
+			laps: 15,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -92,7 +92,7 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 0,
+			laps: 17,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 150,
+			laps: 170,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
