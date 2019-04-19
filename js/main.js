@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 370+24,
+			laps: 394,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -27,22 +27,22 @@ $(document).ready(function($){
 			id: "motzko"
 		},					
 		phast: {
-			laps: 177+9,
+			laps: 186,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
 		knighters: {
-			laps: 153,
+			laps: 163,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 188+9+8,
+			laps: 205,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 259,
+			laps: 259+14,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -82,12 +82,12 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 238+23,
+			laps: 265,
 			name: "Farmers",
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 220,
+			laps: 241,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
@@ -122,7 +122,7 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 209+12,
+			laps: 221,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
