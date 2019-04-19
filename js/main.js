@@ -77,12 +77,12 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 0,
+			laps: 3,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 0,
+			laps: 3,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 9,
+			laps: 11,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
