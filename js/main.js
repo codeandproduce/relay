@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 378,
+			laps: 380,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 235,
+			laps: 238,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 311,
+			laps: 314,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
