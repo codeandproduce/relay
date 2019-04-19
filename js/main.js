@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 11,
+			laps: 15,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -137,18 +137,18 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 17+8,
+			laps: 17+14+7+16+35,
 			name: "Barn",
 			id: "barn"
 		},						
 		
 		middleschool: {
-			laps: 15+7+8+18,
+			laps: 15+7+8+18+6,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+5,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
