@@ -47,7 +47,7 @@ $(document).ready(function($){
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 48,
+			laps: 57,
 			name: "K.O.",
 			id: "ko"
 		},							
@@ -97,7 +97,7 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 19,
+			laps: 27,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
