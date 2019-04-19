@@ -2,47 +2,47 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 520,
+			laps: 532,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 201,
+			laps: 207,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 56,
+			laps: 64,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 233,
+			laps: 249,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 192,
+			laps: 200,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
 		phast: {
-			laps: 68,
+			laps: 73,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
 		knighters: {
-			laps: 74,
+			laps: 79,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 58,
+			laps: 95,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 160,
+			laps: 174,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -57,12 +57,12 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 160,
+			laps: 163,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 126,
+			laps: 133,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 285,
+			laps: 288,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -92,12 +92,12 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 210,
+			laps: 214,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
 		sos: {
-			laps: 159,
+			laps: 162,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
@@ -112,12 +112,12 @@ $(document).ready(function($){
 			id: "walkman"
 		},						
 		ooklah: {
-			laps: 13,
+			laps: 19,
 			name: "Ooklah Mooklah Hooklah",
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 127,
+			laps: 138,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
@@ -127,17 +127,17 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 110,
+			laps: 118,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 56,
+			laps: 73,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 238,
+			laps: 246,
 			name: "Barn",
 			id: "barn"
 		},						
