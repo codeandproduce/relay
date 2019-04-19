@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 167,
+			laps: 169,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -57,12 +57,12 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 273,
+			laps: 275,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 232,
+			laps: 237,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 226,
+			laps: 235,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 317,
+			laps: 329,
 			name: "Walkman",
 			id: "walkman"
 		},						
@@ -127,7 +127,7 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 206,
+			laps: 214,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
