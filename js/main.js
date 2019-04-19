@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 117,
+			laps: 125,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 199,
+			laps: 220,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
