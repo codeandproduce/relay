@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 3,
+			laps: 5,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 0,
+			laps: 6,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 0,
+			laps: 2,
 			name: "Walkman",
 			id: "walkman"
 		},						
