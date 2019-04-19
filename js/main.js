@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 231,
+			laps: 234,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -132,7 +132,7 @@ $(document).ready(function($){
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 117,
+			laps: 127,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
