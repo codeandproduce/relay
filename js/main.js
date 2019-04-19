@@ -153,7 +153,7 @@ $(document).ready(function($){
 			id: "elementaryschool"
 		},
 		teacher: {
-			laps: 0,
+			laps: 6,
 			name:"Teacher Team",
 			id: "teacher"
 		}						
