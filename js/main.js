@@ -137,7 +137,7 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 17+14+7+16+35+11+44+2,
+			laps: 17+14+7+16+35+11+44+2+2,
 			name: "Barn",
 			id: "barn"
 		},						
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+5,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
