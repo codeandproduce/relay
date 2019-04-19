@@ -32,7 +32,7 @@ $(document).ready(function($){
 			id: "phast"
 		},				
 		knighters: {
-			laps: 58,
+			laps: 60,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 53,
+			laps: 56,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
