@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 502,
+			laps: 510,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -12,17 +12,17 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 54,
+			laps: 56,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 213,
+			laps: 233,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 184,
+			laps: 192,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -57,7 +57,7 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 131,
+			laps: 160,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -77,17 +77,17 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 283,
+			laps: 285,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 153,
+			laps: 155,
 			name: "Farmers",
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 38,
+			laps: 41,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
@@ -97,7 +97,7 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 136,
+			laps: 139,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 103,
+			laps: 127,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
@@ -127,12 +127,12 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 101,
+			laps: 110,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 42,
+			laps: 52,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
@@ -143,7 +143,7 @@ $(document).ready(function($){
 		},						
 		
 		middleschool: {
-			laps: 162,
+			laps: 171,
 			name: "Middle School",
 			id: "middleschool"
 		},
