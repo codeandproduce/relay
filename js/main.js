@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 21+8+6+7+24+11+17,
+			laps: 21+8+6+7+24+11+17+2,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -17,12 +17,12 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 11+11+6+16+12+16+18+8+13+1,
+			laps: 11+11+6+16+12+16+18+8+13+1+6,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 24+5,
+			laps: 24+5+8,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 34+6+4+6,
+			laps: 34+6+4+6+2,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -143,12 +143,12 @@ $(document).ready(function($){
 		},						
 		
 		middleschool: {
-			laps: 15+7+8+18+13+4+11+7+5+8+14,
+			laps: 15+7+8+18+13+4+11+7+5+8+14+14,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3+76+92+138+16+41+57,
+			laps: 294+255+184+48+34+32+89+48+17+16+59+4+14+50+14+44+42+11+12+14+14+4+7+1+2+23+6+6+9+2+26+10+8+6+4+27+22+25+18+23+48+9+22+15+49+50+36+7+105+46+39+51+43+15+16+12+49+56+21+23+18+78+3+76+92+138+16+41+57+20+11,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
