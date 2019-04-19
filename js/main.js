@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 26,
+			laps: 37,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
@@ -47,7 +47,7 @@ $(document).ready(function($){
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 92,
+			laps: 103,
 			name: "K.O.",
 			id: "ko"
 		},							
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 97,
+			laps: 107,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -92,12 +92,12 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 153,
+			laps: 156,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
 		sos: {
-			laps: 61,
+			laps: 78,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
