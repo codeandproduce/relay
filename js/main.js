@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 703,
+			laps: 716,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 392,
+			laps: 314,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -42,22 +42,22 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 252,
+			laps: 259,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 349,
+			laps: 356,
 			name: "K.O.",
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 124,
+			laps: 127,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 280,
+			laps: 294,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 135,
+			laps: 145,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -97,7 +97,7 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 286,
+			laps: 288,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
@@ -112,7 +112,7 @@ $(document).ready(function($){
 			id: "walkman"
 		},						
 		ooklah: {
-			laps: 62,
+			laps: 63,
 			name: "Ooklah Mooklah Hooklah",
 			id: "ooklah"
 		},							
