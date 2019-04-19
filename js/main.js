@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 51,
+			laps: 56,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
