@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 52+29,
+			laps: 52+29+7,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 11+11+6+16,
+			laps: 11+11+6+16+6,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -57,7 +57,7 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 6+7,
+			laps: 6+7+6,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -67,7 +67,7 @@ $(document).ready(function($){
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 16+2,
+			laps: 16+5,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 34+6+4,
+			laps: 34+6+4+6,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -97,12 +97,12 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 13,
+			laps: 13+3,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 4+4+2+5,
+			laps: 4+4+2+5+6,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
@@ -127,7 +127,7 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 10+8+6,
+			laps: 10+8+12,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
