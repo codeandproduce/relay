@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 151,
+			laps: 159,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 248,
+			laps: 253,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
