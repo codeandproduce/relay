@@ -22,7 +22,7 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 37,
+			laps: 81,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -87,12 +87,12 @@ $(document).ready(function($){
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 22,
+			laps: 24,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 62,
+			laps: 88,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
@@ -102,12 +102,12 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 27,
+			laps: 40,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 42,
+			laps: 52,
 			name: "Walkman",
 			id: "walkman"
 		},						
@@ -137,18 +137,18 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 185,
+			laps: 190,
 			name: "Barn",
 			id: "barn"
 		},						
 		
 		middleschool: {
-			laps: 128,
+			laps: 157,
 			name: "Middle School",
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 2815,
+			laps: 2817,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
