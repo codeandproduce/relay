@@ -122,12 +122,12 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 39,
+			laps: 68,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 61,
+			laps: 65,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
