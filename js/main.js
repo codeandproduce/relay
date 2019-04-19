@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 459,
+			laps: 465,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -52,7 +52,7 @@ $(document).ready(function($){
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 73,
+			laps: 53,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
@@ -97,7 +97,7 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 107,
+			laps: 87,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
