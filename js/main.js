@@ -27,12 +27,12 @@ $(document).ready(function($){
 			id: "motzko"
 		},					
 		phast: {
-			laps: 44,
+			laps: 46,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
 		knighters: {
-			laps: 64,
+			laps: 70,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
