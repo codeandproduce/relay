@@ -2,17 +2,17 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 556,
+			laps: 571,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 207,
+			laps: 275,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 68,
+			laps: 82,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
@@ -22,52 +22,52 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 236,
+			laps: 269,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
 		phast: {
-			laps: 77,
+			laps: 120,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
 		knighters: {
-			laps: 101,
+			laps: 108,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 95,
+			laps: 133,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 187,
+			laps: 211,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 186,
+			laps: 253,
 			name: "K.O.",
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 53,
+			laps: 91,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 173,
+			laps: 201,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 155,
+			laps: 193,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 61,
+			laps: 83,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
@@ -77,67 +77,67 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 289,
+			laps: 294,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 175,
+			laps: 205,
 			name: "Farmers",
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 45,
+			laps: 61,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 220,
+			laps: 233,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
 		sos: {
-			laps: 162,
+			laps: 201,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 138,
+			laps: 149,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 167,
+			laps: 229,
 			name: "Walkman",
 			id: "walkman"
 		},						
 		ooklah: {
-			laps: 22,
+			laps: 37,
 			name: "Ooklah Mooklah Hooklah",
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 158,
+			laps: 198,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 110,
+			laps: 127,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 151,
+			laps: 163,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 84,
+			laps: 90,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 255,
+			laps: 284,
 			name: "Barn",
 			id: "barn"
 		},						
