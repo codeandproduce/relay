@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 20,
+			laps: 26,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
@@ -87,7 +87,7 @@ $(document).ready(function($){
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 29,
+			laps: 33,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
@@ -122,7 +122,7 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 68,
+			laps: 83,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
