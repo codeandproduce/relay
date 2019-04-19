@@ -97,7 +97,7 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 78,
+			laps: 86,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 2858,
+			laps: 2867,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
