@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 274,
+			laps: 280,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
