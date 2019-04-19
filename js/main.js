@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 421,
+			laps: 439,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
