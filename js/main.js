@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 716,
+			laps: 739,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 314,
+			laps: 330,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -17,12 +17,12 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 408,
+			laps: 412,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 329,
+			laps: 342,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -47,17 +47,17 @@ $(document).ready(function($){
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 356,
+			laps: 395,
 			name: "K.O.",
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 127,
+			laps: 137,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 294,
+			laps: 303,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 145,
+			laps: 150,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
@@ -92,12 +92,12 @@ $(document).ready(function($){
 			id: "legsMiser"
 		},							
 		cureious: {
-			laps: 335,
+			laps: 370,
 			name: "Fast and Cure-ious",
 			id: "cureious"
 		},							
 		sos: {
-			laps: 288,
+			laps: 303,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
@@ -122,22 +122,22 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 180,
+			laps: 207,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 292,
+			laps: 299,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 152,
+			laps: 161,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 343,
+			laps: 348,
 			name: "Barn",
 			id: "barn"
 		},						
