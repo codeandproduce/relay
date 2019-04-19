@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 5,
+			laps: 11,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
@@ -107,12 +107,12 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 2,
+			laps: 4,
 			name: "Walkman",
 			id: "walkman"
 		},						
 		ooklah: {
-			laps: 0,
+			laps: 3,
 			name: "Ooklah Mooklah Hooklah",
 			id: "ooklah"
 		},							
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 43,
+			laps: 122,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
