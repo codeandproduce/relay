@@ -22,7 +22,7 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 10,
+			laps: 24,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -42,7 +42,7 @@ $(document).ready(function($){
 			id: "pirates"
 		},						
 		cureBears: {
-			laps:0,
+			laps: 18,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -52,7 +52,7 @@ $(document).ready(function($){
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 0,
+			laps: 6,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 11,
+			laps: 14,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 4,
+			laps: 32,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -112,7 +112,7 @@ $(document).ready(function($){
 			id: "walkman"
 		},						
 		ooklah: {
-			laps: 3,
+			laps: 7,
 			name: "Ooklah Mooklah Hooklah",
 			id: "ooklah"
 		},							
@@ -137,7 +137,7 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 0,
+			laps: 9,
 			name: "Barn",
 			id: "barn"
 		},						
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 131,
+			laps: 150,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
