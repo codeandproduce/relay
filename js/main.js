@@ -77,7 +77,7 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 264,
+			laps: 265,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
