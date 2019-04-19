@@ -122,7 +122,7 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 83,
+			laps: 86,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
