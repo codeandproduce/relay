@@ -22,7 +22,7 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 157,
+			laps: 160,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
