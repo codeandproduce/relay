@@ -47,7 +47,7 @@ $(document).ready(function($){
 			id: "cureBears"
 		},					
 		ko: {
-			laps: 10,
+			laps: 41,
 			name: "K.O.",
 			id: "ko"
 		},							
@@ -122,7 +122,7 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 13+11+5+6,
+			laps: 13+11+5+10,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
