@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 96,
+			laps: 110,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 58,
+			laps: 60,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
