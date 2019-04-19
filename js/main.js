@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 37+16,
+			laps: 53,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
