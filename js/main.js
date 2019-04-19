@@ -137,7 +137,7 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 202,
+			laps: 216,
 			name: "Barn",
 			id: "barn"
 		},						
