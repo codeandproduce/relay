@@ -7,7 +7,7 @@ $(document).ready(function($){
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 141,
+			laps: 151,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
