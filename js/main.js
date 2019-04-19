@@ -2,7 +2,7 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 52+7+7+5,
+			laps: 52+29,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
@@ -17,7 +17,7 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 11+11,
+			laps: 11+11+6+16,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
@@ -32,17 +32,17 @@ $(document).ready(function($){
 			id: "phast"
 		},				
 		knighters: {
-			laps: 14,
+			laps: 14+8,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 9+5,
+			laps: 9+2,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
 		cureBears: {
-			laps: 31+12,
+			laps: 31+12+5,
 			name: "The Cure Bears",
 			id: "cureBears"
 		},					
@@ -52,12 +52,12 @@ $(document).ready(function($){
 			id: "ko"
 		},							
 		soleMates: {
-			laps: 13+10,
+			laps: 13+10+4,
 			name: "Sole Mates",
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 3+1,
+			laps: 6+7,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
@@ -67,17 +67,17 @@ $(document).ready(function($){
 			id: "soleSquad"
 		},							
 		nongCun: {
-			laps: 0,
+			laps: 16+2,
 			name: "Nong Cun",
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 16+7,
+			laps: 16+7+9,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 34+6,
+			laps: 34+6+4,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
@@ -87,7 +87,7 @@ $(document).ready(function($){
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 4,
+			laps: 4+2,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
@@ -97,17 +97,17 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 7,
+			laps: 13,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 4+4+2,
+			laps: 4+4+2+5,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 35,
+			laps: 35+7,
 			name: "Walkman",
 			id: "walkman"
 		},						
@@ -122,22 +122,22 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 13+11+4,
+			laps: 13+11+5,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 10+8,
+			laps: 10+8+6,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
 		cancerbgon: {
-			laps: 17+6,
+			laps: 17+7,
 			name: "Cancerbgon",
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 17,
+			laps: 17+8,
 			name: "Barn",
 			id: "barn"
 		},						
@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 294+255+184+48+17+32,
+			laps: 294+255+184+48+34+32+89+48,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
