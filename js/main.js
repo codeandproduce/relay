@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 496,
+			laps: 502,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 179,
+			laps: 195,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -17,22 +17,22 @@ $(document).ready(function($){
 			id: "walkamolies"
 		},				
 		aggressivelyMediocre: {
-			laps: 210,
+			laps: 213,
 			name: "Aggressively Mediocre",
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 179,
+			laps: 184,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
 		phast: {
-			laps: 46,
+			laps: 48,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
 		knighters: {
-			laps: 72,
+			laps: 74,
 			name: "The All Knighters",
 			id: "knighters"
 		},						
@@ -62,7 +62,7 @@ $(document).ready(function($){
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 118,
+			laps: 122,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -77,17 +77,17 @@ $(document).ready(function($){
 			id: "benDing"
 		},								
 		cashMoney: {
-			laps: 282,
+			laps: 283,
 			name: "Cash Money On the Run",
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 152,
+			laps: 153,
 			name: "Farmers",
 			id: "farmers"
 		},					
 		legsMiser: {
-			laps: 33,
+			laps: 38,
 			name: "Legs Miserables",
 			id: "legsMiser"
 		},							
@@ -102,7 +102,7 @@ $(document).ready(function($){
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 114,
+			laps: 120,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
@@ -117,7 +117,7 @@ $(document).ready(function($){
 			id: "ooklah"
 		},							
 		lifeSupport: {
-			laps: 97,
+			laps: 103,
 			name: "Life Support",
 			id: "lifeSupport"
 		},						
@@ -127,7 +127,7 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 99,
+			laps: 101,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
