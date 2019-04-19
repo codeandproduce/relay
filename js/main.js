@@ -72,7 +72,7 @@ $(document).ready(function($){
 			id: "nongCun"
 		},							
 		benDing: {
-			laps: 87,
+			laps: 95,
 			name: "Ben Ding Dong",
 			id: "benDing"
 		},								
