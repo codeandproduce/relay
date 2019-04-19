@@ -57,7 +57,7 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 72,
+			laps: 86,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
