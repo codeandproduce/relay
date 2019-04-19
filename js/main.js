@@ -148,7 +148,7 @@ $(document).ready(function($){
 			id: "middleschool"
 		},
 		elementaryschool: {
-			laps: 0,
+			laps: 9,
 			name: "Elementary School",
 			id: "elementaryschool"
 		},
