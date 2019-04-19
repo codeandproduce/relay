@@ -12,7 +12,7 @@ $(document).ready(function($){
 			id: "walkieTalkie"
 		},			
 		walkamolies: {
-			laps: 42,
+			laps: 48,
 			name: "Walkamolies",
 			id: "walkamolies"
 		},				
@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 56,
+			laps: 58,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
