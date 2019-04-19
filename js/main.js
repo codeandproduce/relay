@@ -22,7 +22,7 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 178,
+			laps: 179,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 138,
+			laps: 152,
 			name: "Farmers",
 			id: "farmers"
 		},					
