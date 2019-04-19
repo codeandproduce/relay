@@ -2,12 +2,12 @@ $(document).ready(function($){
 
 	var teamObj = {
 		beyondRunning: {
-			laps: 572,
+			laps: 573,
 			name: "Beyond Running",
 			id: "beyondRunning"
 		},				
 		walkieTalkie: {
-			laps: 282,
+			laps: 287,
 			name: "Walkie Talkies",
 			id: "walkieTalkie"
 		},			
@@ -22,12 +22,12 @@ $(document).ready(function($){
 			id: "aggressivelyMediocre"
 		},			
 		motzko: {
-			laps: 274,
+			laps: 286,
 			name: "Mr. Motzko's Walk and Talk Exploratory",
 			id: "motzko"
 		},					
 		phast: {
-			laps: 139,
+			laps: 143,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
@@ -37,7 +37,7 @@ $(document).ready(function($){
 			id: "knighters"
 		},						
 		pirates: {
-			laps: 137,
+			laps: 130,
 			name: "PIrates of the Cure-i-bbean",
 			id: "pirates"
 		},						
@@ -57,12 +57,12 @@ $(document).ready(function($){
 			id: "soleMates"
 		},							
 		unforgettables: {
-			laps: 210,
+			laps: 227,
 			name: "The Unforgettables",
 			id: "unforgettables"
 		},				 		
 		soleSquad: {
-			laps: 193,
+			laps: 212,
 			name: "Sole Squad",
 			id: "soleSquad"
 		},							
@@ -82,7 +82,7 @@ $(document).ready(function($){
 			id: "cashMoney"
 		},							
 		farmers: {
-			laps: 205,
+			laps: 209,
 			name: "Farmers",
 			id: "farmers"
 		},					
@@ -97,22 +97,22 @@ $(document).ready(function($){
 			id: "cureious"
 		},							
 		sos: {
-			laps: 208,
+			laps: 211,
 			name: " … - - - … (SOS)",
 			id: "sos"
 		},								
 		bigWok: {
-			laps: 149,
+			laps: 232,
 			name: "Big Wok",
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 229,
+			laps: 253,
 			name: "Walkman",
 			id: "walkman"
 		},						
 		ooklah: {
-			laps: 37,
+			laps: 39,
 			name: "Ooklah Mooklah Hooklah",
 			id: "ooklah"
 		},							
@@ -122,12 +122,12 @@ $(document).ready(function($){
 			id: "lifeSupport"
 		},						
 		schoolWalk: {
-			laps: 127,
+			laps: 133,
 			name: "School of Walk",
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 168,
+			laps: 176,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
@@ -137,7 +137,7 @@ $(document).ready(function($){
 			id: "cancerbgon"
 		},							
 		barn: {
-			laps: 284,
+			laps: 294,
 			name: "Barn",
 			id: "barn"
 		},						
