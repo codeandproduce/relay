@@ -27,7 +27,7 @@ $(document).ready(function($){
 			id: "motzko"
 		},					
 		phast: {
-			laps: 20,
+			laps: 44,
 			name: "Phast Walkers",
 			id: "phast"
 		},				
