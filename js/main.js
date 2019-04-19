@@ -107,7 +107,7 @@ $(document).ready(function($){
 			id: "bigWok"
 		},							
 		walkman: {
-			laps: 99,
+			laps: 127,
 			name: "Walkman",
 			id: "walkman"
 		},						
@@ -127,7 +127,7 @@ $(document).ready(function($){
 			id: "schoolWalk"
 		},						
 		findingChemo: {
-			laps: 88,
+			laps: 96,
 			name: "Finding Chemo",
 			id: "findingChemo"
 		},						
